@@ -16,7 +16,7 @@ public class Calculator {
 	// Default constructor
 	public Calculator() {}
 	
-	// Parameterized constructor
+	// Parameterised constructor
 	public Calculator(String calculatorType) {
 		this.calculatorType = calculatorType;
 	}
